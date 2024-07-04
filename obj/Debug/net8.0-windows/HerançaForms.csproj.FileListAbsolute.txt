@@ -1,0 +1,16 @@
+C:\Users\Eduardo\source\repos\HerançaForms\obj\Debug\net8.0-windows\HerançaForms.Form1.resources
+C:\Users\Eduardo\source\repos\HerançaForms\obj\Debug\net8.0-windows\HerançaForms.csproj.GenerateResource.cache
+C:\Users\Eduardo\source\repos\HerançaForms\obj\Debug\net8.0-windows\HerançaForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\source\repos\HerançaForms\obj\Debug\net8.0-windows\HerançaForms.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\HerançaForms\obj\Debug\net8.0-windows\HerançaForms.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\HerançaForms\obj\Debug\net8.0-windows\HerançaForms.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\HerançaForms\bin\Debug\net8.0-windows\HerançaForms.exe
+C:\Users\Eduardo\source\repos\HerançaForms\bin\Debug\net8.0-windows\HerançaForms.deps.json
+C:\Users\Eduardo\source\repos\HerançaForms\bin\Debug\net8.0-windows\HerançaForms.runtimeconfig.json
+C:\Users\Eduardo\source\repos\HerançaForms\bin\Debug\net8.0-windows\HerançaForms.dll
+C:\Users\Eduardo\source\repos\HerançaForms\bin\Debug\net8.0-windows\HerançaForms.pdb
+C:\Users\Eduardo\source\repos\HerançaForms\obj\Debug\net8.0-windows\HerançaForms.dll
+C:\Users\Eduardo\source\repos\HerançaForms\obj\Debug\net8.0-windows\refint\HerançaForms.dll
+C:\Users\Eduardo\source\repos\HerançaForms\obj\Debug\net8.0-windows\HerançaForms.pdb
+C:\Users\Eduardo\source\repos\HerançaForms\obj\Debug\net8.0-windows\HerançaForms.genruntimeconfig.cache
+C:\Users\Eduardo\source\repos\HerançaForms\obj\Debug\net8.0-windows\ref\HerançaForms.dll
